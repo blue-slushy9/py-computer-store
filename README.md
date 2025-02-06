@@ -1,0 +1,1 @@
+This code creates a dictionary that is an inventory of products available at an electronics store, and how many are still in stock. Then it takes user input to see what products the customer is interested in buying, how many they want to buy, tells them the price for their order, and then outputs how many of the same item are still left.
